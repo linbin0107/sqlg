@@ -173,6 +173,7 @@
         <module>sqlg-core</module>
         <module>sqlg-test</module>
         <module>sqlg-postgres-parent</module>
+        <module>sqlg-trafodion-parent</module>
         <module>sqlg-hsqldb-parent</module>
         <module>sqlg-h2-parent</module>
         <module>sqlg-cockroachdb-parent</module>
